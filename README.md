@@ -1,4 +1,4 @@
-### Hi there �🤘
+### Hi there 🤘
 <img src="20201020_154518.jpg">
 <!--
 **leabernard/leabernard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
